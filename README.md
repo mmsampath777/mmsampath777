@@ -107,12 +107,17 @@
 - 🚀 Focus: Code optimization and logic building
   
 ---
+
 ---
+
 ### Leetcode
 <p align="center">
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sampath777coder?theme=dark&font=JetBrains%20Mono&ext=heatmap)
 </p>
+
 ---
+
+
 ### 📫 Connect with Me
 
 - 📧 Email: [mmsampathram@gmail.com](mailto:mmsampathram@gmail.com)
