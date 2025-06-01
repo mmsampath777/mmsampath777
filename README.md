@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Sampath Ram M M</h1>
+<h1 align="center">Hi 👋, I'm Sampath Ram M M</h1>
 <h3 align="center">Aspiring AIML Enthusiast | Web & Software Developer | BTech IT @TCE</h3>
 
 <p align="center">
@@ -17,19 +17,18 @@
 
 ### 💫 About Me
 
-- 🎓 BTech IT Student @ Thiagarajar College of Engineering (2023–2027)
-- 🔭 Currently working on **AI & ML Projects**
-- 🌱 Learning **Machine Learning, Deep Learning, TensorFlow**
-- 🧠 Passionate about **Web Dev, IoT (Arduino), Problem Solving**
-- 💬 Ask me about **Python, JS, DSA, Web Dev**
-- ⚡ Fun fact: I love building things that help others learn or solve problems
+- 🎓 BTech IT Student @ Thiagarajar College of Engineering (2023–2027)  
+- 🔭 Currently working on **AI & ML Projects**  
+- 🌱 Learning **Machine Learning, Deep Learning, TensorFlow**  
+- 🧠 Passionate about **Web Dev, IoT (Arduino), Problem Solving**  
+- 💬 Ask me about **Python, JS, DSA, Web Dev**  
+- ⚡ Fun fact: I love building things that help others learn or solve problems  
 
 ---
 
 ### 🧠 Skills & Tools
 
 #### 🔷 Languages
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
@@ -42,7 +41,6 @@
 </p>
 
 #### 🖥️ Frontend & UI
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
@@ -51,7 +49,6 @@
 </p>
 
 #### 🗃️ Backend & Databases
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
@@ -62,7 +59,6 @@
 </p>
 
 #### ⚙️ Tools & Concepts
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
@@ -76,10 +72,10 @@
 
 ### 🚀 Projects
 
-- 🛍️ **E-Commerce Website** — Frontend: HTML/CSS/JS, Backend: PHP + MySQL  
-- 🎥 **YouTube Clone** — UI-focused replica using HTML & CSS  
-- 💼 **Portfolio Website** — Fully responsive personal site built with Bootstrap  
-- 🌿 **Virtual Herbal Garden** — Built with React, Blender, MongoDB,Node,HTML,CSS3,Javascript
+- 🛍️ **E-Commerce Website** — Online store with product listings, cart, and checkout. Frontend: HTML/CSS/JS, Backend: PHP + MySQL  
+- 🎥 **YouTube Clone** — UI-focused clone of YouTube homepage using HTML & CSS  
+- 💼 **Portfolio Website** — Personal responsive portfolio using Bootstrap  
+- 🌿 **Virtual Herbal Garden** — Educational web app to explore herbal plants. Built with React, Blender, MongoDB, Node.js  
 
 ---
 
@@ -91,13 +87,10 @@
 </p>
 
 ---
----
 
 ### 🧠 Skillrack Stats
-<p align="center">
-  [![Skillrack Profile](https://img.shields.io/badge/Skillrack-View_Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](http://www.skillrack.com/profile/468150/531c933ec98e1e7481e2b09ab505b9b246b44981)
-</p>
 
+[![Skillrack Profile](https://img.shields.io/badge/Skillrack-View_Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](http://www.skillrack.com/profile/468150/531c933ec98e1e7481e2b09ab505b9b246b44981)
 
 #### 🔍 Highlights
 
@@ -105,27 +98,31 @@
 - 🏆 Best Rank: Top 5% in College  
 - 📈 Consistent practice on DSA, C, and Python  
 - 🚀 Focus: Code optimization and logic building
-  
----
 
 ---
 
-### Leetcode
+### 💡 LeetCode Stats
+
 <p align="center">
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sampath777coder?theme=dark&font=JetBrains%20Mono&ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/Sampath777coder?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats">
 </p>
 
 ---
+
+### 🏅 Achievements & Certifications
+
+- 🥇 1st place in Internal Hackathon @ TCE  
+- 🧾 Certified in Python for Data Science – NPTEL  
+- 💻 Completed AI/ML Bootcamp – GUVI (IIT-M Incubated)
 
 ---
 
 ### 📫 Connect with Me
 
-- 📧 Email: [mmsampathram@gmail.com](mailto:mmsampathram@gmail.com)
-- 🌐 Portfolio: [mmsampath777.github.io/myportfolio](https://mmsampath777.github.io/myportfolio/)
+- 📧 Email: [mmsampathram@gmail.com](mailto:mmsampathram@gmail.com)  
+- 🌐 Portfolio: [mmsampath777.github.io/myportfolio](https://mmsampath777.github.io/myportfolio/)  
 - 💼 LinkedIn: [linkedin.com/in/sampath-ram-m-m-8128052b2](https://www.linkedin.com/in/sampath-ram-m-m-8128052b2)
 
 ---
 
-> *“Striving to turn ideas into impactful solutions with code.”*
-
+<p align="center"><i>“Striving to turn ideas into impactful solutions with code.”</i></p>
