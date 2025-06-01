@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sampath Ram M M</h1>
+  <h1 align="center">Hi 👋, I'm Sampath Ram M M</h1>
 <h3 align="center">Aspiring AIML Enthusiast | Web & Software Developer | BTech IT @TCE</h3>
 
 <p align="center">
@@ -109,7 +109,9 @@
 ---
 ---
 ### Leetcode
+<p align="center">
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sampath777coder?theme=dark&font=JetBrains%20Mono&ext=heatmap)
+</p>
 ---
 ### 📫 Connect with Me
 
