@@ -91,7 +91,20 @@
 </p>
 
 ---
+---
 
+### 🧠 Skillrack Stats
+
+[![Skillrack Profile](https://img.shields.io/badge/Skillrack-View_Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](http://www.skillrack.com/profile/468150/531c933ec98e1e7481e2b09ab505b9b246b44981)
+
+#### 🔍 Highlights
+
+- 💯 Solved: 450+ problems  
+- 🏆 Best Rank: Top 5% in College  
+- 📈 Consistent practice on DSA, C, and Python  
+- 🚀 Focus: Code optimization and logic building
+  
+---
 ### 📫 Connect with Me
 
 - 📧 Email: [mmsampathram@gmail.com](mailto:mmsampathram@gmail.com)
