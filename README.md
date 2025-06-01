@@ -79,7 +79,7 @@
 - 🛍️ **E-Commerce Website** — Frontend: HTML/CSS/JS, Backend: PHP + MySQL  
 - 🎥 **YouTube Clone** — UI-focused replica using HTML & CSS  
 - 💼 **Portfolio Website** — Fully responsive personal site built with Bootstrap  
-- 🌿 **Virtual Herbal Garden** — Built with React, Three.js, MongoDB (Ongoing)
+- 🌿 **Virtual Herbal Garden** — Built with React, Blender, MongoDB,Node,HTML,CSS3,Javascript
 
 ---
 
