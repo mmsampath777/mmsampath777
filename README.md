@@ -109,13 +109,7 @@
 
 ---
 
-### 🏅 Achievements & Certifications
 
-- 🥇 1st place in Internal Hackathon @ TCE  
-- 🧾 Certified in Python for Data Science – NPTEL  
-- 💻 Completed AI/ML Bootcamp – GUVI (IIT-M Incubated)
-
----
 
 ### 📫 Connect with Me
 
