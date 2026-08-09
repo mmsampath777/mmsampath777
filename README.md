@@ -72,7 +72,7 @@
 
 ### 🚀 Projects
 
-- 🛍️ **E-Commerce Website** — Online store with product listings, cart, and checkout. Frontend: HTML/CSS/JS, Backend: PHP + MySQL  
+- ✈️ **Travelora:** AI-powered travel planner for personalized itineraries and smart trip management. 
 - 🎥 **YouTube Clone** — UI-focused clone of YouTube homepage using HTML & CSS  
 - 💼 **Portfolio Website** — Personal responsive portfolio using Bootstrap  
 - 🌿 **Virtual Herbal Garden** — Educational web app to explore herbal plants. Built with React, Blender, MongoDB, Node.js  
